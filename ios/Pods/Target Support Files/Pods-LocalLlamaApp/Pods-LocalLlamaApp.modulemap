@@ -1,0 +1,6 @@
+module Pods_LocalLlamaApp {
+  umbrella header "Pods-LocalLlamaApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
